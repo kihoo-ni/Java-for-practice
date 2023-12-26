@@ -7,9 +7,9 @@ JAVA
 # 공부 기간 
 23년 6월초 ~ 23년 8월말
 # 결과물
-핑크빈 프로젝트를 만듦.</br>
 자바에서 배운 객체생성, 메소드, 스레드, 자바GUI 등을 이용하여 핑크빈 잡기 게임을 만듦.
-![image](https://github.com/kihoo-ni/Java-for-practice/assets/140569678/4d364838-dd4d-4a66-a991-120bc5ad71dc)
+![image](https://github.com/kihoo-ni/Java-for-practice/assets/140569678/4d364838-dd4d-4a66-a991-120bc5ad71dc)  
+메인화면
 ***
 맨처음 유저가 죽는경우
 ***
