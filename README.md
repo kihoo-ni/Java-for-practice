@@ -1,5 +1,5 @@
 # 프로젝트 명
-프로젝트 설명
+자바 프로젝트를 하면서 마지막 파트 모음 
 
 # 데모
 [링크](https://happycodingdiary.tistory.com/)
