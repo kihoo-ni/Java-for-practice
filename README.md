@@ -11,9 +11,10 @@ JAVA
 ![image](https://github.com/kihoo-ni/Java-for-practice/assets/140569678/4d364838-dd4d-4a66-a991-120bc5ad71dc)  
 메인화면
 ***
-맨처음 유저가 죽는경우
+1. 맨처음 유저가 죽는경우
 ***
 ![핑크빈2](https://github.com/kihoo-ni/Java-for-practice/assets/140569678/d2bd9c63-a4dd-4903-8f4c-f8bb310ec1a2)
+***
+2. 핑크빈이 죽는 경우
+***
 
-
-dd
