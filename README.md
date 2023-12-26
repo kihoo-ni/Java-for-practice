@@ -17,4 +17,5 @@ JAVA
 ***
 2. 핑크빈이 죽는 경우
 ***
+![핑크빈잡기](https://github.com/kihoo-ni/Java-for-practice/assets/140569678/9f4fb7cd-a388-4f38-8fbb-44ca1af6f88c)
 
